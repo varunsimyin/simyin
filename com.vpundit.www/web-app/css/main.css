@@ -1,0 +1,7 @@
+.tip {
+	border-width: 1px;
+	border-style:solid;
+	border-color:black;
+	max-width : 300px;
+	background-color:#FFF68F;
+}
